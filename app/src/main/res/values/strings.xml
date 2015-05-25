@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">EjemploParseo</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="IntroduceURL">Introduzca URL</string>
+    <string name="URL">URL</string>
+    <string name="parseo">Parsear</string>
+    <string name="Volver">Volver</string>
+</resources>
